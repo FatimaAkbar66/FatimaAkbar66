@@ -1,71 +1,81 @@
-<h1 align="center">Hi there, I'm Fatima Akbar 👋</h1>
+<div align="center">
+  <h1>Hi there, I'm Fatima Akbar 👋</h1>
+  <h3>Undergraduate CS Student | Full-Stack & Android Developer</h3>
+  <p><i>Building modern, AI-powered applications with sleek UI/UX</i></p>
 
-<p align="center">
-  <em>Undergraduate CS Student &nbsp;|&nbsp; Full-Stack &amp; Android Developer &nbsp;|&nbsp; Rawalpindi, Pakistan</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fatima-akbar04">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:fatimah9286@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/FatimaAkbar66">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
+  <p align="center">
+    <a href="mailto:YOUR_EMAIL@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="YOUR_LINKEDIN_URL">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## About Me
+### 👩‍💻 About Me
 
-- **Building:** AI-powered Android & web apps
-- **Learning:** Cloud deployment (Render, Vercel) & system design
-- **Open to:** Internships and collaborations
-- **Ask me about:** Flask, Android Java, MySQL, Gemini AI
-- **Location:** Rawalpindi, Pakistan
+I am a Computer Science undergraduate with a strong focus on developing scalable web and mobile applications. I thrive on combining clean backend architecture with modern, visually striking user interfaces—especially utilizing Material Design, dark modes, and high-elevation components.
+
+- 🎓 **Currently Studying:** BS Computer Science 
+- 🚀 **Currently Building:** AI-integrated Android & web applications, focusing on robust logic and seamless user experiences.
+- 🌱 **Currently Learning:** Cloud deployment (Render, Vercel), system design, and cybersecurity fundamentals (Nmap, network mapping).
+- 🤝 **Open to:** Internships, open-source collaborations, and exciting full-stack opportunities.
+- 📍 **Location:** Rawalpindi / Kahuta, Pakistan
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3572A5?style=flat-square&logo=python&logoColor=white)
+**Languages & Frameworks:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-4F5D95?style=flat-square&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Mobile & Frontend:**  
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material%20Design-757575?style=flat-square&logo=material-design&logoColor=white)
+
+**Databases & AI:**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
+
+**Tools & Workflows:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-e25f1c?style=flat-square&logo=mathworks&logoColor=white)
 
 ---
 
-## GitHub Stats
+### 🚀 Highlighted Projects
 
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FatimaAkbar66&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaAkbar66&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FatimaAkbar66&theme=default&hide_border=true" />
-</p>
+* **CraveCart Food Ordering System:** A full-stack web application featuring comprehensive admin, customer, and delivery modules, built with PHP and MySQL.
+* **AI Diet Consultant & Fruit Classifier:** An Android application leveraging Google's Gemini AI and TensorFlow Lite to provide personalized health insights and real-time image classification.
+* **Expense Tracker Pro:** A native Android application built with Java and SQLite, utilizing floating action buttons and modern Material Design for an intuitive financial tracking experience.
+* **City Care Clinic Dashboard:** A cohesive, multi-module clinic management system featuring a sleek landing page and administrative dashboard.
+* **Student Management System:** A core logic-focused C# console application designed for efficient data handling and modular architecture.
 
 ---
 
-## Connect With Me
+### 📊 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fatima--akbar04-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-akbar04)
-&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail-fatimah9286%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:fatimah9286@gmail.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" width="48%" alt="Fatima's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" width="48%" alt="Fatima's GitHub Streak" />
+</div>
 
-<br/>
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" width="48%" alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FatimaAkbar66&style=flat-square&label=Profile+Views" />
-</p>
+---
+<div align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</div>
