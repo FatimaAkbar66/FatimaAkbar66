@@ -26,21 +26,10 @@
 ## GitHub stats
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=FatimaAkbar66&show_icons=true&theme=default&hide_border=true" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaAkbar66&layout=compact&hide_border=true&theme=default" width="300" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=FatimaAkbar66&hide_border=true&theme=default" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=FatimaAkbar66&show_icons=true&theme=default&hide_border=true" alt="Fatima's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaAkbar66&layout=compact&hide_border=true&theme=default" alt="Top Languages" width="44%" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=FatimaAkbar66&hide_border=true&theme=default" alt="GitHub Streak" width="93%" />
 </div>
 
 ---
